@@ -1,0 +1,1 @@
+location.href = location.href + "&emi=AN1VRQENFRJN5";
